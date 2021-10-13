@@ -4,9 +4,10 @@ So,
 ### Hi there 👋
 - 🔭 I’m currently working on alot of unfinished things 
 - 🌱 I’m currently learning JavaScript. *cues Crying*
-- Also said I will be ser
+- Also said I will be serious on finishing stuff 
 
-- ⚡ Fun fact: I tell the lamest jokes lmaooooo 
+- ⚡ Fun fact: I tell the lamest jokes.
+
 
 
 ![Juma-h's GitHub stats](https://github-readme-stats.vercel.app/api?username=juma-h&show_icons=true&theme=dark)
