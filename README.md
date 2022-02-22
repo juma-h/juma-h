@@ -8,8 +8,8 @@ So,
 
 
 - ⚡ Fun fact: I tell the lamest jokes.
-DID YOU KNOW? 
-I am currently on my journey to be a full stack engineer? Watch these repos!
+- DID YOU KNOW? 
+-----I am currently on my journey to be a full stack engineer? Watch these repos!
 
 
 ![Juma-h's GitHub stats](https://github-readme-stats.vercel.app/api?username=juma-h&show_icons=true&theme=dark)
