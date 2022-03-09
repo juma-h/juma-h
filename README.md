@@ -1,9 +1,9 @@
 
 I've been told I write Readme's in a layman way :)
 So, 
-### Hi there 👋
+#### Hi there 👋
 - 🔭 I’m currently working on alot of unfinished things 
-- 🌱 I’m currently learning JavaScript. *cues Crying*
+- 🌱 I’m currently learning JavaScript. *cues crying* - I did. Now React.js *-more tears*
 - Also said I will be serious on finishing stuff 
 
 
