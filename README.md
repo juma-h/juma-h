@@ -12,7 +12,7 @@ So,
 -----I am currently on my journey to be a full stack engineer? Watch these repos!
 
 
-![Juma-h's GitHub stats](https://github-readme-stats.vercel.app/api?username=juma-h&show_icons=true&theme=dark)
+![Juma-h's GitHub stats](https://github-readme-stats.vercel.app/api?username=juma-h&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juma-h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
