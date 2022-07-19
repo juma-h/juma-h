@@ -3,7 +3,7 @@
 </div>
   
 ### :woman_technologist: Hi there 👋
-I'm a Full Stack Dev (mostly front-end) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+I'm a Full Stack Dev (mostly front-end) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 ---
 I've been told I write Readme's in a layman way 🦖. So, 
