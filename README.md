@@ -6,10 +6,8 @@
 I'm a Full Stack Dev (mostly front-end) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 ---
-I've been told I write Readme's in a layman way 🦖. So, 
-- 🔭 I’m currently working on alot of unfinished things. _update:_ *I am still working on them.*
-- 🌱 I’m learning 2 languages and 1 framework. *at the moment*
-- ⚡ Fun fact: I tell the lamest jokes -(i'll have a lame joke site soon)
+I've been told I write Readme's in a layman way 😊. So, 
+- ⚡ Fun fact: Most of my commit messages are associated with the songs i'm listening to atm
 
 #### DID YOU KNOW? 
 ---- I am currently on my journey to be a full stack engineer? Watch these repos!
