@@ -7,7 +7,8 @@ I'm a Full Stack Dev (mostly front-end) <img src="https://media.giphy.com/media/
 
 ---
 I've been told I write Readme's in a layman way 😊. So, 
-- ⚡ Fun fact: Most of my commit messages are associated with the songs i'm listening to atm
+- ⚡ Fun fact: Most of my commit messages are associated with the songs i'm listening to atm.
+- But I comment what i do so you won't be lost.
 
 #### DID YOU KNOW? 
 ---- I am currently on my journey to be a full stack engineer? Watch these repos!
