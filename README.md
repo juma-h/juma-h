@@ -14,11 +14,33 @@ I've been told I write Readme's in a layman way 😊. So,
 ---- I am currently on my journey to be a full stack engineer? Watch these repos!
 
 ### :fire: My Stats :
-
-![Juma-h's GitHub stats](https://github-readme-stats.vercel.app/api?username=juma-h&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juma-h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+       <a href="https://github.com/juma-h"><img alt="Juma-h's Github Stats" src="https://github-readme-stats.vercel.app/api?username=juma-h&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+    </td>
+    <td>
+       <a href="http://www.github.com/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juma-h&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/juma-h"><img alt="Ayomide Suara's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juma-h&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+  </tr>
+</table>
 
 ---
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=juma-h&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+
+
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juma-h&show_icons=true&locale=en&layout=compact" alt="juma" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juma-h&show_icons=true&locale=en" alt="juma" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juma-h&" alt="juma" /></p>
+
+-->
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -29,7 +51,7 @@ I've been told I write Readme's in a layman way 😊. So,
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original-wordmark.svg" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku"  alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="Vscode" width="40" height="40"/>  
