@@ -3,7 +3,7 @@
 </div>
   
 ### :woman_technologist: Hi there 👋
-I'm a Full Stack Dev (mostly front-end) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I'm a Front End Dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 ---
 I've been told I write Readme's in a layman way 😊. So, 
@@ -11,7 +11,7 @@ I've been told I write Readme's in a layman way 😊. So,
 - But I comment what i do so you won't be lost.
 
 #### DID YOU KNOW? 
----- I am currently on my journey to be a full stack engineer? Watch these repos!
+---- I am currently on my journey to be a software engineer? Watch these repos!
 
 ### :fire: My Stats :
 <table>
