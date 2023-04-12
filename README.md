@@ -3,15 +3,20 @@
 </div>
   
 ### :woman_technologist: Hi there 👋
-I'm a Front End Dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I'm a Front End Dev  with ambiguous ideas. If I can think it, I can make it.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 ---
 I've been told I write Readme's in a layman way 😊. So, 
-- ⚡ Fun fact: Most of my commit messages are associated with the songs i'm listening to atm.
+- ⚡ Fact: Most of my commit messages are "Please work" , cause I am at my wits end
 - But I comment what i do so you won't be lost.
 
-#### DID YOU KNOW? 
----- I am currently on my journey to be a software engineer? Watch these repos!
+### Check these out : 
+[cosmic-curse](https://www.npmjs.com/package/cosmic-curse?activeTab=readme)
+- A package that deletes unused dependencies in a project.
+-------------
+[andthatsonperiodt](https://andthatsonperiodt.netlify.app/)
+- Educational website that helps us learn more on the menstrual cycle.
+
 
 ### :fire: My Stats :
 <table>
@@ -30,17 +35,6 @@ I've been told I write Readme's in a layman way 😊. So,
 
 ---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=juma-h&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
-
-
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juma-h&show_icons=true&locale=en&layout=compact" alt="juma" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juma-h&show_icons=true&locale=en" alt="juma" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juma-h&" alt="juma" /></p>
-
--->
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
