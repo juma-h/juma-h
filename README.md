@@ -3,12 +3,7 @@
 </div>
   
 ### :woman_technologist: Hi there 👋
-I'm a Front End Dev  with ambiguous ideas. If I can think it, I can make it.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-
----
-I've been told I write Readme's in a layman way 😊. So, 
-- ⚡ Fact: Most of my commit messages are "Please work" , cause I am at my wits end
-- But I comment what i do so you won't be lost.
+Front End Dev with ambiguous ideas. If I can think it, I can make it. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 ### Check these out : 
 [cosmic-curse](https://www.npmjs.com/package/cosmic-curse?activeTab=readme)
