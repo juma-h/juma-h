@@ -1,18 +1,53 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" height="400"/>
 </div>
-  
-### :woman_technologist: Hi there 👋
-Front End Dev with ambiguous ideas. If I can think it, I can make it. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-### Check these out : 
-[cosmic-curse](https://www.npmjs.com/package/cosmic-curse?activeTab=readme)
-- A package that deletes unused dependencies in a project.
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+<!---
+<div align="right">
+  <a href="https://open.spotify.com/user/mitchfibi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mitchfibi&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
+###
+
+<div align="left">
+[cosmic-curse](https://www.npmjs.com/package/cosmic-curse?activeTab=readme) - A package that deletes unused dependencies in a project.
+</div>
+
+<div align="right">
+[andthatsonperiodt](https://andthatsonperiodt.netlify.app/) - Educational website that helps us learn more on the menstrual cycle.
+</div>
+--->
+
+
+
 -------------
-[andthatsonperiodt](https://andthatsonperiodt.netlify.app/)
-- Educational website that helps us learn more on the menstrual cycle.
 
 
+<!--
 ### :fire: My Stats :
 <table>
   <tr>
@@ -28,7 +63,6 @@ Front End Dev with ambiguous ideas. If I can think it, I can make it. <img src="
   </tr>
 </table>
 
----
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -45,7 +79,7 @@ Front End Dev with ambiguous ideas. If I can think it, I can make it. <img src="
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="Vscode" width="40" height="40"/>  
 </div>
 
----
+--->
 
 
 <!--
