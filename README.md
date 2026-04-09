@@ -4,7 +4,7 @@
 
 ###
 
-Front End Developer. I use the tools below
+Senior FrontEnd Engineer . I use the tools below
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
